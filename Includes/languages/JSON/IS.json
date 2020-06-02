@@ -1,0 +1,30 @@
+{
+  "general": {
+    "brand_name": "Wreckless Reykjavík",
+    "description": "Verslaðu hjá Wreckless Reykjavík. Skoðaðu úrvalið og keyptu."
+  },
+  "pages": {
+    "home": "Heim",
+    "item": "Vörur",
+    "contact": "Hafa samband",
+    "tos": "Skilmálar",
+    "privacy_policy": "Friðhelgistefna",
+    "cookie_policy": "Vafrakökur"
+  },
+  "navigation": {
+    "search": "Leita",
+    "men": "Karlar",
+    "women": "Konur"
+  },
+  "error": {
+    "unknown": "Óvænt villa kom upp á",
+    "unspecified_language": "Tungumál ekki skilgreint",
+    "language_does_not_exist": "Tungumálið er ekki til"
+  },
+  "item": {
+    "view_item": "Skoða vöru",
+    "sizes": "Stærðir",
+    "colors": "Litir",
+    "add_to_cart": "Bæta við körfu"
+  }
+}

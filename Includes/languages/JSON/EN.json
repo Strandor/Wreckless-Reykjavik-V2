@@ -1,0 +1,30 @@
+{
+  "general": {
+    "brand_name": "Wreckless Reykjavík",
+    "description": "Shop from Wreckless Reykjavík. Browse our collection and buy."
+  },
+  "pages": {
+    "home": "Home",
+    "item": "Items",
+    "contact": "Contact",
+    "tos": "Terms of Service",
+    "privacy_policy": "Privacy Policy",
+    "cookie_policy": "Cookie Policy"
+  },
+  "navigation": {
+    "search": "Search",
+    "men": "Men",
+    "women": "Women"
+  },
+  "error": {
+    "unknown": "Unknown error occurred",
+    "unspecified_language": "Language not specified",
+    "language_does_not_exist": "The language does not exist"
+  },
+  "item": {
+    "view_item": "View item",
+    "sizes": "Sizes",
+    "colors": "Colors",
+    "add_to_cart": "Add to cart"
+  }
+}
